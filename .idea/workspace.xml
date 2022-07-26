@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d10643d-9f92-4c7d-8276-9cca7d43e63c" name="Changes" comment="corejava proram">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-java-7.00pm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forloop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Switchstatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Switchstatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Breakcontinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Dowhileloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,17 +45,36 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Forloop">
-    <configuration name="ConditionalStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalStatement" />
+  <component name="RunManager" selected="Application.Breakcontinue">
+    <configuration name="Breakcontinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Breakcontinue" />
       <module name="core-java-7.00pm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Forloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Forloop" />
+    <configuration name="Dowhileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.Dowhileloop" />
       <module name="core-java-7.00pm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.Fibonacci" />
+      <module name="core-java-7.00pm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -67,27 +86,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switchstatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Switchstatement" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.Palindrome" />
       <module name="core-java-7.00pm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Variablemanuplation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variablemanuplation" />
-      <module name="core-java-7.00pm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Forloop" />
-        <item itemvalue="Application.Variablemanuplation" />
-        <item itemvalue="Application.Switchstatement" />
+        <item itemvalue="Application.Breakcontinue" />
+        <item itemvalue="Application.Dowhileloop" />
         <item itemvalue="Application.NestedIfclass" />
-        <item itemvalue="Application.ConditionalStatement" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658151280225</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="corejava proram">
+      <created>1658756107883</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658756107883</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +156,20 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Forloop.java</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Breakcontinue.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Loop/Dowhileloop.java</url>
+          <line>5</line>
+          <properties class="Loop.Dowhileloop" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
