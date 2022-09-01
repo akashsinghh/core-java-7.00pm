@@ -39,10 +39,7 @@ public class ArrayListGenerics {
         price.add(4654.55);
         return price;
 
-    }
-
-
-    public static void main(String[] args) {
+    }public static void main(String[] args) {
         ArrayListGenerics obj=new ArrayListGenerics();
         ArrayList<String> name=obj.createwithgenerics();
 
@@ -54,9 +51,7 @@ public class ArrayListGenerics {
            System.out.println("for loop name: "+var);
 
        }
-
-
-        ArrayList<Integer> marks=obj.createwithgenericss();
+       ArrayList<Integer> marks=obj.createwithgenericss();
 
        for(int i=0;i<marks.size();i++){
            System.out.println("Printinh thr list: "+ marks.get(i));
