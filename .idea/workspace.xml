@@ -1,9 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d10643d-9f92-4c7d-8276-9cca7d43e63c" name="Changes" comment="corejava proram">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1d10643d-9f92-4c7d-8276-9cca7d43e63c" name="Changes" comment="WIP addded genrics">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casestatement/Breakcontinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casestatement/Compiletime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casestatement/Employeehascode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casestatement/Switchstatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casestatement/Variablemanuplation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/abstraction/AbstractinChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/abstraction/Demoabstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/abstraction/Demoabstractn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/abstraction/interfaceesss/ChildAbstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/abstraction/interfaceesss/Interfacedemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/abstraction/interfaceesss/childimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/encapsulation/DemoEncapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/encapsulation/SecondEncapus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/inheritenceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/inheritenceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/interfacee/ChildImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/interfacee/Demointerface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/polymorphosim/ChildOverroding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/polymorphosim/DemoMethodoverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOOPPSS/polymorphosim/Runtimepoly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/DemoArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/StudentArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/hashmap/StudentHashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/hashset/Demohashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/hashset/Duplcatesarraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/hashset/StudentHashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compareablecomparator/DemoEngin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compareablecomparator/Demp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compareablecomparator/IdCompartor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compareablecomparator/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compareablecomparator/PhoneComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionInterview/Agenot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionInterview/Customexcep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionInterview/Demoexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/keyword/StaticKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Studentsss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Engineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array/Arrraydemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Arrraydemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Testcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Testcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Forloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Casestatement/Forloop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hashsetcollection/Demohashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hashsetcollection/Demohashset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keywords/Demostatics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/keywords/Demostatics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,31 +79,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowRun.ShowToolbar": "false",
-    "last_opened_file_path": "C:/Users/rahul/IdeaProjects/core-java-7.00pm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rahul/IdeaProjects/core-java-7.00pm/src/Casestatement&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Breakcontinue">
-    <configuration name="Breakcontinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Breakcontinue" />
-      <module name="core-java-7.00pm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dowhileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.Dowhileloop" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="compareablecomparator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rahul\IdeaProjects\core-java-7.00pm\src\Casestatement" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Duplcatesarraylist">
+    <configuration name="ChildOverroding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOOPPSS.polymorphosim.ChildOverroding" />
       <module name="core-java-7.00pm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loop.*" />
+          <option name="PATTERN" value="OOOPPSS.polymorphosim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.Fibonacci" />
+    <configuration name="DemoEngin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compareablecomparator.DemoEngin" />
       <module name="core-java-7.00pm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loop.*" />
+          <option name="PATTERN" value="compareablecomparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,19 +126,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedIfclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NestedIfclass" />
+    <configuration name="Demp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compareablecomparator.Demp" />
       <module name="core-java-7.00pm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compareablecomparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.Palindrome" />
+    <configuration name="Duplcatesarraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.hashset.Duplcatesarraylist" />
       <module name="core-java-7.00pm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loop.*" />
+          <option name="PATTERN" value="collections.hashset.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="keyword.StaticKeyword" />
+      <module name="core-java-7.00pm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Breakcontinue" />
-        <item itemvalue="Application.Dowhileloop" />
-        <item itemvalue="Application.NestedIfclass" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Duplcatesarraylist" />
+        <item itemvalue="Application.StaticKeyword" />
+        <item itemvalue="Application.DemoEngin" />
+        <item itemvalue="Application.Demp" />
+        <item itemvalue="Application.ChildOverroding" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658756107883</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="WIP addded genrics">
+      <created>1664636464244</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664636464244</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,15 +221,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="corejava proram" />
-    <option name="LAST_COMMIT_MESSAGE" value="corejava proram" />
+    <MESSAGE value="WIP addded genrics" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP addded genrics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Forloop.java</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Breakcontinue.java</url>
           <line>8</line>

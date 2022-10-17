@@ -34,25 +34,25 @@ public class Student {
     public void setFees(int fees) {
         this.fees = fees;
     }
-}
 
-//    @Override
-//    public boolean equals(Object o) {
-//        if (this == o) return true;
-//        if (o == null || getClass() != o.getClass()) return false;
-//
-//        Student student = (Student) o;
-//
-//        if (fees != student.fees) return false;
-//        if (!name.equals(student.name)) return false;
-//        return section.equals(student.section);
-//    }
-//
-//    @Override
-//    public int hashCode() {
-//        int result = name.hashCode();
-//        result = 31 * result + section.hashCode();
-//        result = 31 * result + fees;
-//        return result;
-//    }
-//}
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Student student = (Student) o;
+
+        if (fees != student.fees) return false;
+        if (!name.equals(student.name)) return false;
+        return section.equals(student.section);
+    }
+
+    @Override
+    public int hashCode() {
+        int result = name.hashCode();
+        result = 31 * result + section.hashCode();
+        result = 31 * result + fees;
+        return result;
+    }
+}

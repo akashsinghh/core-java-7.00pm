@@ -1,17 +1,18 @@
 package Hashsetcollection;
 
 import java.util.HashSet;
+import java.util.LinkedHashSet;
 
 public class Demohashset {
-    public HashSet<Integer> creatinghashset(){
-        HashSet<Integer> marks=new HashSet<>();
+    public LinkedHashSet<Integer> creatinghashset(){
+        LinkedHashSet<Integer> marks=new LinkedHashSet<>();
         marks.add(2);
         marks.add(5);
         marks.add(2);
         marks.add(5);
         return marks;
-    }public  HashSet<Double> createhashet(){
-        HashSet<Double> number=new HashSet<Double>();
+    }public  LinkedHashSet<Double> createhashet(){
+        LinkedHashSet<Double> number=new LinkedHashSet<Double>();
         number.add(542.66);
         number.add(945.56);
         number.add(542.66);
